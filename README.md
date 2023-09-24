@@ -48,7 +48,7 @@ A *proudly taken man with a full-time unemployment status from 🇧🇷 Brasilz�
 ### 💲 Work
 
 Yeh, I'm in need of some work (or cash tbh)  
-if you wanna do smt and dont have people to work with ye, then just call me at [contact section](#📬-contact)
+if you wanna do smt and dont have people to work with ye, then just call me at [contact section](#-contact)
 
 ### 📬 Contact
 
