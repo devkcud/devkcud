@@ -52,7 +52,7 @@ if you wanna do smt and dont have people to work with ye, then just call me at [
 
 ### 📬 Contact
 
-Feel free to reach me out at *[andrescalisejr@gmail.com](mailto:andrescalisejr@gmail.com)*. I often read my email, so I **WILL** read what ever you send me (even cat pics 🐈️).
+Feel free to reach me out at *[andrescalisejr@gmail.com](mailto:andrescalisejr@gmail.com)*. I often read my email, so I **WILL** see/read what ever you send me (even cat pics 🐈️).
 
 <div align="center">
 	<img src="https://i.imgur.com/7NbLOSy.gif" alt="yay confetie (sorry for bad english)" />
