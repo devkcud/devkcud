@@ -38,7 +38,7 @@ A *proudly taken man with a full-time unemployment status from 🇧🇷 Brasilz�
 
 ### 🗿 some chat msgs i found in old screenshots
 
-> 🤓 (me): i run an arch linux server
+> 🤓 (me): i run an arch linux server  
 > 🤓: and i made my own firewall... now my entire house is burning
 
 > 😱 (bro 1): bro livin the danger
