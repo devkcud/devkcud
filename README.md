@@ -2,12 +2,12 @@
 <h1 align="center">Hey, I'm André Albanese 👋</h1>
 <h2 align="center">🚀 Full-Stack Developer (mostly back-end) | 🐧 Arch user btw</h2>
 
-A *proudly taken man with a full-time unemployment status from 🇧🇷 Brasilzão 🇧🇷* ©, mastering the art of creating more problems trying to solve the first problem, and fiercely proud of a few things (not all of them, let's not get carried away 🙃).
+A *proudly taken man with a full-time unemployment status from 🇧🇷 Brasilzão 🇧🇷* ©. I've perfected the art of solving one problem while creating ten others, and im fiercely proud of a few things (not all of them, let's not get carried away 🙃).
 
 *Also a GPT enjoyer (the partition layout, not chatgpt!!!)*
 
 <div align="center">
-	<img src="https://i.imgur.com/1gSB77J.gif" alt="a 2 fps scene wher mistah white fall to the ground lmao. i wonder what happend to him" />
+	<img src="https://i.imgur.com/1gSB77J.gif" alt="a 2 fps scene wher mistah white fall to the ground lmao. made me go 'haha'" />
 </div>
 
 > Started learning to code at the ripe old age of 9 (I'm a whopping 17 now, though I'll probably forget to update this age every year 🎂). My birthday's on July 7th, 2006. 🎈
@@ -47,7 +47,7 @@ A *proudly taken man with a full-time unemployment status from 🇧🇷 Brasilz�
 
 ### 💲 Work
 
-Yeh, I'm in need of some work (or cash tbh)
+Yeh, I'm in need of some work (or cash tbh)  
 if you wanna do smt and dont have people to work with ye, then just call me at [contact section](#📬-contact)
 
 ### 📬 Contact
