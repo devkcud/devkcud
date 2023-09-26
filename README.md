@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey, I'm André Albanese 👋</h1>
-<h2 align="center">🚀 Full-Stack Developer (mostly back-end) | 🐧 Arch user btw</h2>
+<h2 align="center">🚀 Full-Stack Developer (mostly back-end) | 🐧 Arch user btw | 🦆 aka devkcud</h2>
 
 A *proudly taken man with a full-time unemployment status from 🇧🇷 Brasilzão 🇧🇷* ©. I've perfected the art of solving one problem while creating ten others, and im fiercely proud of a few things (not all of them, let's not get carried away 🙃).
 
