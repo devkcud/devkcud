@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm André Albanese 👋</h1>
-<h2 align="center">🚀 Full-Stack Developer | <img height="20" src="https://archlinux.org/static/archnavbar/archlogo.a2d0ef2df27d.png"> user btw | 🦆 aka devkcud</h2>
+<h2 align="center">🚀 Full-Stack Developer | <img height="20" src="icons/archlinux.svg"> Arch Linux user btw | 🦆 aka devkcud</h2>
 
 I'm a full-stack developer with a strong focus on back-end development. From the vibrant land of Brazil 🇧🇷, I've honed my problem-solving skills, occasionally creating more challenges than I solve—let's not overstate my accomplishments! 🙃  
 I embarked on my coding journey at age 9, starting with Pascal. Now, at 17 (**TODO:** _update every year lol_), I'm passionate about software development, born on July 7th, 2006. 🎈
