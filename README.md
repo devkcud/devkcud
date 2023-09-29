@@ -35,6 +35,7 @@ I am continuously dedicated to learning new languages and new technologies, some
 	<img alt="cpp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 	<img alt="neovim" height="40" width="40" src="icons/nvim.svg">
 	<img alt="docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+	<img alt="docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 ### 🌎 Multilingual Mastery
