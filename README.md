@@ -52,7 +52,7 @@ I'm actively seeking opportunities to contribute my skills and expertise. If you
 Feel free to get in touch with me using the links bellow. I am always checking my email and am always eager to engage in meaningful conversations, whether they involve code, ideas, or even cat pictures! 🐈️
 
 <div align="center">
-	<a href = "mailto:andrescalisejr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href = "mailto:andrescalisejr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23cd3c2f?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a href = "mailto:patommmmm@proton.me"><img src="https://img.shields.io/badge/-Proton%20Mail-%236d4aff?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </div>
 
