@@ -41,7 +41,7 @@ I am continuously dedicated to learning new languages and new technologies, some
 
 ### 🌎 Multilingual Mastery
 
-I'm proficient in **Portuguese** (🇧🇷) and **English** (🇺🇸), and I'm currently learning **Latin** (🇮🇹) and **German** (🇩🇪).
+I'm proficient in **Portuguese** (🇧🇷) and **English** (🇺🇸), and I'm currently learning **Latin** (🇮🇹, yes, latin not italian) and **German** (🇩🇪).
 
 ### 💼 Professional
 
