@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, I'm André Albanese 👋</h1>
+<h1 align="center">Greetings, I'm André "Pato" Albanese Junior 👋</h1>
 <h2 align="center">🚀 Full-Stack Developer | <img height="20" src="icons/archlinux.svg"> Arch Linux user btw | 🦆 aka devkcud</h2>
 
 I'm a _full-stack developer_ with a strong _focus on back-end_ development. From **Brazil** 🇧🇷, I've honed my problem-solving skills, occasionally creating more challenges than I solve—let's not overstate my accomplishments! 🙃
