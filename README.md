@@ -8,7 +8,7 @@ I embarked on my coding journey at age 9, starting with Pascal. Now, at 17 (**TO
 _I'm also an aficionado of GPT (the partition layout, not ChatGPT!)_
 
 <div align="center">
-	<img src="https://i.imgur.com/1gSB77J.gif" alt="Breaking Bread" />
+	<img src="https://i.imgur.com/1gSB77J.gif" alt="Baking Bread" />
 </div>
 
 ### 📦️ Notable Projects
@@ -46,6 +46,12 @@ I'm proficient in **Portuguese** (🇧🇷) and **English** (🇺🇸), and I'm 
 ### 💼 Professional
 
 I'm actively seeking opportunities to contribute my skills and expertise. If you have a project or a job in need of a developer, don't hesitate to contact me.
+
+<p align="center">
+	<a href="https://git.io/streak-stats">
+		<img src="https://streak-stats.demolab.com?user=devkcud&theme=transparent&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" />
+	</a>
+</p>
 
 ### 📬 Contact
 
