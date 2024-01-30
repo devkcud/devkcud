@@ -39,6 +39,10 @@ I am continuously dedicated to learning new languages and new technologies, some
 	<img alt="docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
+<p align="center">
+	<i>Check my <a href="https://devkcud.vercel.app/tech">portfolio</a> for more info</i>
+</p>
+
 ### 🌎 Multilingual Mastery
 
 I'm proficient in **Portuguese** (🇧🇷) and **English** (🇺🇸), and I'm currently learning **Russian** (🇷🇺).
