@@ -40,7 +40,7 @@ I am continuously dedicated to learning new languages and new technologies, some
 </div>
 
 <p align="center">
-	<i>Check my <a href="https://devkcud.vercel.app/tech">portfolio</a> for more info</i>
+	<i>Check my <a href="https://devkcud.vercel.app">portfolio</a> for more info</i>
 </p>
 
 ### 🌎 Multilingual Mastery
