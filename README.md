@@ -11,6 +11,10 @@ _I'm also an aficionado of GPT (the partition layout, not ChatGPT!)_
 	<img src="https://i.imgur.com/1gSB77J.gif" alt="Baking Bread" />
 </div>
 
+<p align="center">
+	<i>Check my <a href="https://devkcud.vercel.app">portfolio</a> for more info</i>
+</p>
+
 ### 📦️ Notable Projects
 
 * [Kubic](https://github.com/devkcud/Kubic): A logical cube-based game.
