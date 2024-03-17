@@ -23,6 +23,8 @@ _I'm also an aficionado of GPT (the partition layout, not ChatGPT!)_
 * [mutare](https://github.com/devkcud/mutare): A markdown editor developed for a school project.
 * [duckos](https://github.com/devkcud/duckos): An old ReactJS portfolio of my work.
 
+_lately been working on some secret projects (ooooh mysterious!! 🎃)_
+
 I am continuously dedicated to learning new languages and new technologies, some tech that I know (including but not limited to):
 
 <div align="center">
