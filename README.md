@@ -17,7 +17,7 @@ _I'm also an aficionado of GPT (the partition layout, not ChatGPT!)_
 
 ### 📦️ Notable Projects
 
-* [Arkhon APIl](https://github.com/swibly/arkhon-api): A RESTFull API for the Arkhon project. Used primarily for auth and project management.
+* [Arkhon API](https://github.com/swibly/arkhon-api): A RESTFull API for the Arkhon project. Used primarily for auth and project management.
 * [Skill Icons Web](https://github.com/devkcud/skill-icons-web): Unofficial "Image Builder" for Skill Icons.
 * [Kubic](https://github.com/devkcud/Kubic): A logical cube-based game.
 * [mk](https://github.com/devkcud/mk): A tool to simplify folder and file creation.
