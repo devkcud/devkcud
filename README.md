@@ -1,11 +1,9 @@
 <h1 align="center">Greetings, I'm André "Pato" Albanese Junior 👋</h1>
 <h2 align="center">🚀 Full-Stack Developer | <img height="20" src="icons/archlinux.svg"> Arch Linux user btw | 🦆 aka devkcud</h2>
 
-I'm a _full-stack developer_ with a strong _focus on back-end_ development. From **Brazil** 🇧🇷, I've honed my problem-solving skills, occasionally creating more challenges than I solve—let's not overstate my accomplishments! 🙃
+I am a full-stack developer from Brazil 🇧🇷, with a strong focus on back-end development. I started coding at 9 with Pascal, and now, at 17 _(todo: Update this yearly)_, I am passionate about software development. My birthday is July 7, 2006 btw. 🎈
 
-I embarked on my coding journey at age 9, starting with Pascal. Now, at 17 (**TODO:** _update every year lol_), I'm passionate about software development, born on _July 7th, 2006_. 🎈
-
-_I'm also an aficionado of GPT (the partition layout, not ChatGPT!)_
+_I also have a keen interest in GPT (the partition layout 👀)_
 
 <div align="center">
 	<img src="https://i.imgur.com/1gSB77J.gif" alt="Baking Bread" />
