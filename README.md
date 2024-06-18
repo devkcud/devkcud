@@ -17,9 +17,10 @@ _I'm also an aficionado of GPT (the partition layout, not ChatGPT!)_
 
 ### 📦️ Notable Projects
 
+* [Arkhon APIl](https://github.com/swibly/arkhon-api): A RESTFull API for the Arkhon project. Used primarily for auth and project management.
+* [Skill Icons Web](https://github.com/devkcud/skill-icons-web): Unofficial "Image Builder" for Skill Icons.
 * [Kubic](https://github.com/devkcud/Kubic): A logical cube-based game.
 * [mk](https://github.com/devkcud/mk): A tool to simplify folder and file creation.
-* [dotfile-tool](https://github.com/devkcud/dotfile-tool): A utility for managing dotfiles.
 * [mutare](https://github.com/devkcud/mutare): A markdown editor developed for a school project.
 * [duckos](https://github.com/devkcud/duckos): An old ReactJS portfolio of my work.
 
