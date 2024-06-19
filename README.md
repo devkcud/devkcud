@@ -15,14 +15,101 @@ _I also have a keen interest in GPT (the partition layout 👀)_
 
 ### 📦️ Notable Projects
 
-* [Arkhon API](https://github.com/swibly/arkhon-api): A RESTful API for the Arkhon project. Used primarily for auth and project management.
-* [Skill Icons Web](https://github.com/devkcud/skill-icons-web): Unofficial "Image Builder" for Skill Icons.
-* [Kubic](https://github.com/devkcud/Kubic): A logical cube-based game.
-* [mk](https://github.com/devkcud/mk): A tool to simplify folder and file creation.
-* [mutare](https://github.com/devkcud/mutare): A markdown editor developed for a school project.
-* [duckos](https://github.com/devkcud/duckos): An old ReactJS portfolio of my work.
+<details>
+  <summary><a href="https://github.com/swibly/arkhon-api">Arkhon API</a>: A RESTful API for the Arkhon project. Used primarily for auth and project management.</summary>
+  <a href="https://api-test.swibly.org/v1/user/johndoe/profile">View Deployment</a>
+  
+  <p><b>Problem:</b> What can I say? It's THE project so I can graduate. I must do it right! It was (and still is) difficult to learn, cause it's a huge project. Difficult enough? No. I was the one responsible (for some time until a friend decided to help) for the cloud and DNS.</p>
+  
+  <p><b>Technologies used:</b></p>
+
+  <ul>
+    <li>Golang</li>
+    <li>Gin</li>
+    <li>GORM</li>
+    <li>PostgreSQL</li>
+    <li>Google Cloud Run & DNS</li>
+  </ul>
+</details>
+
+<details>
+  <summary><a href="https://github.com/devkcud/skill-icons-web">Skill Icons Web</a>: Unofficial "Image Builder" for Skill Icons.</summary>
+  <a href="https://skill-icons-web.vercel.app">View Deployment</a>
+  
+  <p><b>Problem:</b> I wanted a website to easily manipulate Skill Icons, but couldn't find any that fits my needs. After some time, I decided to create my own.</p>
+  
+  <p><b>Technologies used:</b></p>
+
+  <ul>
+    <li>Sveltekit</li>
+    <li>Typescript</li>
+    <li>TailwindCSS + DaisyUI</li>
+    <li>SortableJS</li>
+    <li>Zod</li>
+  </ul>
+</details>
+
+<details>
+  <summary><a href="https://github.com/devkcud/Kubic">Kubic</a>: A logical cube-based game.</summary>
+  <a href="#">No Deployments :(</a>
+  
+  <p><b>Problem:</b> Another one of those school projects. This one is special, it is my first FULL game. I never did anything like that before, and do this in such a tight deadline is a hard challenge that I took and it was amazing to work in.</p>
+  
+  <p><b>Technologies used:</b></p>
+
+  <ul>
+    <li>Gamemaker GML</li>
+    <li>Scribble</li>
+  </ul>
+</details>
+
+<details>
+  <summary><a href="https://github.com/devkcud/mk">mk</a>: A tool to simplify folder and file creation.</summary>
+  <a href="#">No Deployments :(</a>
+  
+  <p><b>Problem:</b> This one is the one. The one that I'm proud of. A simple yet the command that I use the most in my Linux system. Creating a complete CLI tool is a fun thing to do. It was difficult, I didn't knew how to work with files in Go, and this project helped me understand a LOT about buffers, files, flags, and a lot of other things.</p>
+  
+  <p><b>Technologies used:</b></p>
+
+  <ul>
+    <li>Golang</li>
+  </ul>
+</details>
+
+<details>
+  <summary><a href="https://github.com/devkcud/mutare">mutare</a>: A markdown editor developed for a school project.</summary>
+  <a href="https://https://devkcud.github.io/mutare/">View Deployment</a>
+  
+  <p><b>Problem:</b> Yet another school project. I made this one with a friend of mine, and it was good. The only problem is that we had one week to do all of it, so don't expect a lot of extensibility or it be responsive on mobile.</p>
+  
+  <p><b>Technologies used:</b></p>
+
+  <ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Javascript</li>
+  </ul>
+</details>
+
+<details>
+  <summary><a href="https://github.com/devkcud/duckos">duckos</a>: An old ReactJS portfolio of my work.</summary>
+  <a href="https://duckos.vercel.app">View Deployment</a>
+  
+  <p><b>Problem:</b> I wanted to learn React, and decided to create an OS-sim website. The only problem was <i>how?</i> Then I forced my self to learn React draggable in 4 weeks, many projects were lost during that time.</p>
+  
+  <p>Technologies used:</p>
+
+  <ul>
+    <li>React</li>
+    <li>Typescript</li>
+    <li>SASS</li>
+    <li>Vercel</li>
+  </ul>
+</details>
 
 _lately been working on some secret projects (ooooh mysterious!! 🎃)_
+
+---
 
 I am continuously dedicated to learning new languages and new technologies, some tech that I know (including but not limited to):
 
