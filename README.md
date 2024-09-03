@@ -17,7 +17,7 @@ _I also have a keen interest in GPT (the partition layout 👀)_
 
 <details>
   <summary><a href="https://github.com/swibly/swibly-api">Swibly API</a>: A RESTful API for the Swibly project. Used primarily for auth and project management.</summary>
-  <a href="https://api.swibly.org/v1/user/johndoe/profile">View Deployment</a>
+  <a href="https://www.swibly.com.br">View Deployment</a>
   
   <p><b>Problem:</b> What can I say? It's THE project so I can graduate. I must do it right! It was (and still is) difficult to learn, cause it's a huge project. Difficult enough? No. I was the one responsible (for some time until a friend decided to help) for the cloud and DNS.</p>
   
@@ -28,7 +28,9 @@ _I also have a keen interest in GPT (the partition layout 👀)_
     <li>Gin</li>
     <li>GORM</li>
     <li>PostgreSQL</li>
-    <li>Google Cloud Run & DNS</li>
+    <li>Render</li>
+    <li>Supabase</li>
+    <li>Docker</li>
   </ul>
 </details>
 
