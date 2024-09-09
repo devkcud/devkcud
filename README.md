@@ -80,7 +80,7 @@ _I also have a keen interest in GPT (the partition layout 👀)_
 
 <details>
   <summary><a href="https://github.com/devkcud/mutare">mutare</a>: A markdown editor developed for a school project.</summary>
-  <a href="https://https://devkcud.github.io/mutare/">View Deployment</a>
+  <a href="https://devkcud.github.io/mutare/">View Deployment</a>
   
   <p><b>Problem:</b> Yet another school project. I made this one with a friend of mine, and it was good. The only problem is that we had one week to do all of it, so don't expect a lot of extensibility or it be responsive on mobile.</p>
   
