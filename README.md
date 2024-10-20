@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, I'm André "Pato" Albanese Junior 👋</h1>
 <h2 align="center">🚀 Full-Stack Developer | <img height="20" src="icons/archlinux.svg"> Arch Linux user btw | 🦆 aka devkcud</h2>
 
-I am a full-stack developer from Brazil 🇧🇷, with a strong focus on back-end development. I started coding at 9 with Pascal, and now, at 17 _(todo: Update this yearly)_, I am passionate about software development. My birthday is July 7, 2006 btw. 🎈
+I am a full-stack developer from Brazil 🇧🇷, with a strong focus on back-end development. I started coding at 9 with Pascal, and now, at 18 _(todo: Update this yearly)_, I am passionate about software development. My birthday is July 7, 2006 btw. 🎈
 
 _I also have a keen interest in GPT (the partition layout 👀)_
 
@@ -116,7 +116,7 @@ _lately been working on some secret projects (ooooh mysterious!! 🎃)_
 I am continuously dedicated to learning new languages and new technologies, some tech that I know (including but not limited to):
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=astro,svelte,nextjs,golang,rust,typescript,java,python,php,tailwindcss,firebase,mongodb,postgresql,mysql,prisma,linux,arch,kali,neovim,docker&theme=dark&perline=10" alt="Skill Icons" />
+	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,golang,rust,astro,svelte,nextjs,tailwindcss,cs,cpp,python,firebase,supabase,postgresql,mongodb,mysql,linux,neovim,docker,unity,gamemakerstudio&theme=dark&perline=10" alt="My Skills" /></a>
 </div>
 
 <p align="center">
