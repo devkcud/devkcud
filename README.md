@@ -42,7 +42,8 @@ I may dive too deep into partition layouts, write way too much documentation, an
 | [**Skill Icons Web**](https://github.com/devkcud/skill-icons-web) | SvelteKit · TypeScript · Tailwind · Zod | Drag-n-drop UI builder for dev skill icons; because I wanted it |
 | [**mess**](https://github.com/devkcud/mess) | Go | My most-used CLI command; auto-generates folders/files on demand! (`mkdir` and `touch` wrapper) |
 | [**mutare**](https://github.com/devkcud/mutare) | HTML · CSS · JS | Markdown editor made in a week with a friend |
-| [**duckOS**](https://github.com/devkcud/duckos) | React · TS · SASS | My old portfolio disguised as an OS; built to learn React's worst parts |
+| [**duckOS**](https://github.com/devkcud/duckos) | React · TS · SASS | Built to mimic an OS desktop UI and explore React architecture under duress |
+| [**VesperaFX**](https://github.com/devkcud/VesperaFX) | GLSL · Python | Highly stylized, configurable, and modular shaders for Godot >v4 |
 
 <p>‎ </p>
 
