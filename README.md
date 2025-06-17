@@ -10,7 +10,7 @@
 	<a href="https://gitlab.com/patomcio">🦊 GitLab</a>
 </p>
 
-<p>‎ </p>
+<br>
 
 ## 🧠 About Me
 
@@ -24,7 +24,7 @@ I may dive too deep into partition layouts, write way too much documentation, an
 - 🐧 Arch Linux + Neovim + Docker = love/hate triangle
 - 🏗️ Currently building: internal tools, open source utils, and my sanity
 
-<p>‎ </p>
+<br>
 
 <p float="right" align="center">
 	<img src="https://i.imgur.com/1gSB77J.gif" alt="Breaking Bad Walter White Meme Dropping" />
@@ -32,7 +32,7 @@ I may dive too deep into partition layouts, write way too much documentation, an
 </p>
 
 
-<p>‎ </p>
+<br>
 
 ## 📌 Notable Projects
 
@@ -45,21 +45,23 @@ I may dive too deep into partition layouts, write way too much documentation, an
 | [**duckOS**](https://github.com/devkcud/duckos) | React · TS · SASS | Built to mimic an OS desktop UI and explore React architecture under duress |
 | [**VesperaFX**](https://github.com/devkcud/VesperaFX) | GLSL · Python | Highly stylized, configurable, and modular shaders for Godot >v4 |
 
-<p>‎ </p>
+<br>
 
 > _More on [my portfolio](https://www.devkcud.com) or in the pinned repos above. I don't deploy everything because I like a little mystery (and I love not-wasting-money)._
 
-<p>‎ </p>
+<br>
 
 ### 🛠️ Tech Stack & Friends
 
+<br>
+
 <div align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=typescript,golang,rust,astro,svelte,nextjs,tailwindcss,cs,cpp,python,firebase,supabase,postgresql,mongodb,mysql,linux,neovim,docker,unity,gamemakerstudio&theme=dark&perline=10" alt="My Skills" />
+		<img src="https://skillicons.dev/icons?i=golang,rust,cs,typescript,javascript,python,react,nextjs,svelte,django,dotnet,tailwindcss,mongodb,mysql,postgresql,firebase,supabase,linux,docker,kubernetes,aws,gcp,githubactions,unity,gamemakerstudio&theme=dark&perline=10" alt="My Skills" />
 	</a>
 </div>
 
-<p>‎ </p>
+<br>
 
 ## 🤝 Let's Talk
 
@@ -72,7 +74,7 @@ If you're looking for someone who:
 
 Then yeah, let's talk.
 
-<p>‎ </p>
+<br>
 
 <p align="center">
 	<a href="mailto:patommmmm@proton.me">
@@ -89,7 +91,7 @@ Then yeah, let's talk.
 - **Email: Proton (preferred)**: `patommmmm@proton.me`
 - **Email: Gmail (backup)**: `andrescalisejr@gmail.com`
 
-<p>‎ </p>
+<br>
 
 ## 🌍 Languages
 
