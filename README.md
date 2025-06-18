@@ -74,8 +74,6 @@ If you're looking for someone who:
 
 Then yeah, let's talk.
 
-<br>
-
 <p align="center">
 	<a href="mailto:patommmmm@proton.me">
 		<img src="https://img.shields.io/badge/-ProtonMail-%236d4aff?style=for-the-badge&logo=protonmail&logoColor=white">
