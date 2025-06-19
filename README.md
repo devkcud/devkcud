@@ -1,24 +1,21 @@
 <h1 align="center">André "Pato" Albanese Junior 🦆</h1>
-<h3 align="center">Full-Stack Dev · Platform Architect</h3>
+<h3 align="center">Software Engineer · Willingly Writes Documentation</h3>
 
 <p align="center">
 	<a href="https://www.devkcud.com">🌐 Portfolio</a> ·
-	<a href="mailto:patommmmm@proton.me">📧 Email (preferred)</a> · 
-	<a href="mailto:andrescalisejr@gmail.com">📧 Email (backup)</a> · 
+	<a href="mailto:patommmmm@proton.me">📧 Email</a> · 
 	<a href="https://www.linkedin.com/in/andre-albanese-junior">🔗 LinkedIn</a> · 
-	<a href="https://github.com/devkcud">🐙 GitHub (you are here)</a> · 
-	<a href="https://gitlab.com/patomcio">🦊 GitLab</a>
 </p>
 
 <br>
 
 ## 🧠 About Me
 
-I'm a full-stack developer with a backend bias and a tendency to automate anything I touch. Currently working as lead dev at Incube Metrics, where I build internal tools, tame cloud infra, and occasionally talk to humans.
+I'm a software engineer with a backend bias and a tendency to automate anything I touch. Currently working as lead dev at Incube Metrics, where I build internal tools, manage cloud infra, and occasionally talk to humans.
 
-I started coding when I was 9 (thanks, Pascal), and haven't stopped since. Now 18, I focus on crafting things I'd actually use. From CLI tools to web platforms to random Download Managers. When I'm not elbow-deep in Docker containers, I'm probably writing docs no one asked for, or breaking my system config for fun.
+I started coding at 9 because of Pascal, which should be a war crime, honestly. Now 18, I focus on crafting things I'd actually use. From CLI tools to web platforms — if I need it and it doesn't exist, I build it. When I'm not elbow-deep in Docker containers, I'm probably writing docs no one asked for or breaking my system config for fun.
 
-🏗️ Things I'm building: smarter internal systems, open source utilities, a download manager that does more than download stuff, and my coping mechanisms.
+🏗️ Things I'm building: smarter internal systems, open source utilities, and my coping mechanisms.
 
 📋 Side Quests: learning Finnish, battling YAML, and pretending bash is a real language.
 
@@ -32,36 +29,52 @@ I started coding when I was 9 (thanks, Pascal), and haven't stopped since. Now 1
 
 ## 📌 Notable Projects
 
-| Project                                                                   | Stack                                   | TL;DR                                                                                          |
-| ------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [**Swibly API**](https://github.com/swibly/swibly-api)                    | Go · Gin · GORM · PostgreSQL · Supabase | Graduation project + production-grade API for user/project auth                                |
-| [**Skill Icons Web Builder**](https://github.com/devkcud/skill-icons-web) | SvelteKit · TypeScript · Tailwind · Zod | Drag-n-drop UI builder for dev skill icons; because I wanted it                                |
-| [**mess**](https://github.com/devkcud/mess)                               | Go                                      | My daily driver CLI tool; auto-generates folders/files because I'm lazy and `mkdir` is boring. |
-| [**mutare**](https://github.com/devkcud/mutare)                           | HTML · CSS · JS                         | Markdown editor made in a week with a friend                                                   |
-| [**duckOS**](https://github.com/devkcud/duckos)                           | React · TS · SASS                       | React-based desktop UI experiment. Built for fun, tested under psychological strain.           |
-| [**VesperaFX**](https://github.com/devkcud/VesperaFX)                     | GLSL · Python                           | Godot 4 shaders with style, structure, and an appetite for VRAM.                               |
+| Project                                                                   | Status                                    | Stack                                   | TL;DR                                                                                                                |
+| ------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [**Swibly API**](https://github.com/swibly/swibly-api)                    | 🪦 Archived                               | Go · Gin · GORM · PostgreSQL · Supabase | Graduation project + production-grade API for user/project auth.                                                     |
+| [**Skill Icons Web Builder**](https://github.com/devkcud/skill-icons-web) | [🟢 Live](https://skillicons.devkcud.com) | SvelteKit · TypeScript · Tailwind · Zod | Built a drag-n-drop skill icon UI tool because no one else had the decency to.                                       |
+| [**mess**](https://github.com/devkcud/mess)                               | 🧰 Maintained                             | Go                                      | My daily driver CLI tool; auto-generates folders/files because I'm lazy and `mkdir` is boring.                       |
+| [**mutare**](https://github.com/devkcud/mutare)                           | [🟢 Live](https://mutare.devkcud.com)     | HTML · CSS · JS                         | Lightweight Markdown editor hacked together in a week. Surprisingly usable.                                          |
+| [**duckOS**](https://github.com/devkcud/duckos)                           | [🟢 Live](https://duckos.devkcud.com)     | React · TS · SASS                       | React-based desktop UI experiment and my previous portfolio. Built for fun.                                          |
+| [**VesperaFX**](https://github.com/devkcud/VesperaFX)                     | 🧰 Maintained                             | GLSL · Python                           | Godot 4 shaders with style, structure, and an appetite for VRAM. But the visuals are 🔥 and modularity is top-notch. |
 
 <br>
 
-> _More on [my portfolio](https://www.devkcud.com) or in the pinned repos above. I don't deploy everything because I like a little mystery (and I love not-wasting-money)._
+> _More info and live previews for all my projects are on [my portfolio](https://www.devkcud.com). Not everything is deployed because money exists._
 
 <br>
 
-### 🛠️ Tech Stack & Friends
+## 🛠️ Tech Stack & Friends
 
 <br>
 
-<div align="center">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=golang,rust,cs,typescript,javascript,python,react,nextjs,svelte,django,dotnet,tailwindcss,mongodb,mysql,postgresql,firebase,supabase,linux,docker,kubernetes,aws,gcp,githubactions,unity,gamemakerstudio&theme=dark&perline=10" alt="My Skills" />
-	</a>
-</div>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,typescript,golang,rust,python&theme=dark&perline=5" alt="Language icons" />
+
+<br>
+
+**Frameworks**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,dotnet&theme=dark&perline=4" alt="Framework icons" />
+
+<br>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark&perline=3" alt="Database icons" />
+
+<br>
+
+**Infra/DevOps**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,aws&theme=dark&perline=3" alt="Infra/DevOps icons" />
 
 <br>
 
 ## 🤝 Let's Talk
 
-I'm always open to contributing in random projects, contract work, full-time roles, or even weird conversations about Linux, life, or linguistics.
+I'm always open to contributing in random projects, unneeded tooling, paid gigs, or conversations about Linux, life, or linguistics.
 
 If you're looking for someone who:
 
@@ -71,19 +84,15 @@ If you're looking for someone who:
 
 Then yeah, let's talk.
 
-### 📋 Quick Contact Copy & Paste
-
-- **Email: Proton (preferred)**: `patommmmm@proton.me`
-- **Email: Gmail (backup)**: `andrescalisejr@gmail.com`
+- **Email: Proton**: `patommmmm@proton.me` (preferred)
+- **Email: Gmail**: `andrescalisejr@gmail.com` (professional/backup)
 - **Discord**: `patomcio`
 
 <br>
 
-## 🌍 Languages
+## 🌍 Spoken Languages
 
 - 🇧🇷 Portuguese: Native
 - 🇺🇸 English: Advanced (C1)
 - 🇫🇮 Finnish: 🤓🤫
 - 🇷🇺 Russian: "My system is stuck in it. I must adapt." level
-
-<br>
