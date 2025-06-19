@@ -4,7 +4,7 @@
 <p align="center">
 	<a href="https://www.devkcud.com">🌐 Portfolio</a> ·
 	<a href="mailto:patommmmm@proton.me">📧 Email</a> · 
-	<a href="https://www.linkedin.com/in/andre-albanese-junior">🔗 LinkedIn</a> · 
+	<a href="https://www.linkedin.com/in/andre-albanese-junior">🔗 LinkedIn</a>
 </p>
 
 <br>
