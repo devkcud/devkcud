@@ -52,19 +52,13 @@ I started coding at 9 because of Pascal, which should be a war crime, honestly. 
 
 <img src="https://skillicons.dev/icons?i=cs,typescript,golang,rust,python&theme=dark&perline=5" alt="Language icons" />
 
-<br>
-
 **Frameworks**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,dotnet&theme=dark&perline=4" alt="Framework icons" />
 
-<br>
-
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark&perline=3" alt="Database icons" />
-
-<br>
 
 **Infra/DevOps**
 
