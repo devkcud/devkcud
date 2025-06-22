@@ -58,11 +58,11 @@ I started coding at 9 because of Pascal, which should be a war crime, honestly. 
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark&perline=3" alt="Database icons" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark&perline=3" alt="Database icons" />
 
 **Infra/DevOps**
 
-<img src="https://skillicons.dev/icons?i=linux,docker,aws&theme=dark&perline=3" alt="Infra/DevOps icons" />
+<img src="https://skillicons.dev/icons?i=firebase,linux,docker,aws&theme=dark&perline=3" alt="Infra/DevOps icons" />
 
 <br>
 
