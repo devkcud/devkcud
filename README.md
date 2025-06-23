@@ -62,7 +62,7 @@ I started coding at 9 because of Pascal, which should be a war crime, honestly. 
 
 **Infra/DevOps**
 
-<img src="https://skillicons.dev/icons?i=firebase,linux,docker,aws&theme=dark&perline=3" alt="Infra/DevOps icons" />
+<img src="https://skillicons.dev/icons?i=firebase,linux,docker,aws&theme=dark&perline=4" alt="Infra/DevOps icons" />
 
 <br>
 
