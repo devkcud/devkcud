@@ -13,7 +13,7 @@
 
 I'm a software engineer with a backend bias and a tendency to automate anything I touch. Currently working as lead dev at Incube Metrics, where I build internal tools, manage cloud infra, and occasionally talk to humans.
 
-I started coding at 9 because of Pascal, which should be a war crime, honestly. Now 18, I focus on crafting things I'd actually use. From CLI tools to web platforms — if I need it and it doesn't exist, I build it. When I'm not elbow-deep in Docker containers, I'm probably writing docs no one asked for or breaking my system config for fun.
+I started coding at 9 because of Pascal, which should be a war crime, honestly. Now 18, I focus on crafting things I'd actually use following the "I build what I wish existed" rule of thumb. When I'm not elbow-deep in Docker containers, I'm probably writing docs no one asked for or breaking my system config for fun.
 
 🏗️ Things I'm building: smarter internal systems, open source utilities, and my coping mechanisms.
 
