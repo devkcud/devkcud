@@ -38,7 +38,7 @@ I started coding at 9 because of Pascal, which should be a war crime, honestly. 
 <br>
 
 | Project                                                                   | Status                                    | Stack                                   | TL;DR                                                                                                                |
-| ------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------- | :---------------------------------------: | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | [**Swibly API**](https://github.com/swibly/swibly-api)                    | 🪦                               | Go · Gin · GORM · PostgreSQL · Supabase | Graduation project + production-grade API for user/project auth.                                                     |
 | [**VesperaFX**](https://github.com/devkcud/VesperaFX)                     | 🧬                               | GLSL · Python                           | Godot 4 shaders with style, structure, and an appetite for VRAM. But the visuals are 🔥 and modularity is top-notch. |
 | [**Skill Icons Web Builder**](https://github.com/devkcud/skill-icons-web) | [🟢](https://skillicons.devkcud.com) | SvelteKit · TypeScript · Tailwind · Zod | Built a drag-n-drop skill icon UI tool because no one else had the decency to.                                       |
