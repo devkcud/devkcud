@@ -22,7 +22,7 @@ I started coding at 9 because of Pascal, which should be a war crime, honestly. 
 <br>
 
 <p align="center">
-	<img src="https://streak-stats.devkcud.com?user=devkcud&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+	<img src="https://streak-stats.devkcud.com?user=devkcud&theme=transparent&hide_border=true&short_numbers=true&hide_current_streak=true" alt="GitHub Streak" />
 </p>
 
 <br>
