@@ -7,6 +7,8 @@
 	<a href="https://www.linkedin.com/in/andre-albanese-junior">🔗 LinkedIn</a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=devkcud&style=pixel)
+
 <br>
 
 ## 🧠 About Me
