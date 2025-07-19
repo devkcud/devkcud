@@ -84,7 +84,6 @@ I'm always open to contributing in random projects, unneeded tooling, paid gigs,
 If you're looking for someone who:
 
 - Writes clean code and has the audacity to document it
-- Documents the hard and boring
 - Makes the CLI do weird, useful, occasionally cursed things
 
 Then yeah, let's talk.
