@@ -26,11 +26,11 @@ I build things to do my job for me, document themselves (sometimes), and mostly 
 
 | Project                                                       | Stack                             | TL;DR                                                                         |
 | ------------------------------------------------------------- | --------------------------------- | ----------------------------------------------------------------------------- |
-| [Swibly](https://github.com/swibly)                           | SvelteKit · Go · PostgreSQL       | Floor plan editor that's real-time, customizable, and possibly haunted.       |
+| [Swibly](https://github.com/swibly)                           | SvelteKit · Go · PostgreSQL       | Floor plan editor that's real-time, customizable, and ~possibly~ haunted.     |
 | [VesperaFX](https://github.com/devkcud/VesperaFX)             | Godot 4 · Python · GLSL           | Shader playground for Godot. High performance, high appetite for VRAM.        |
-| [mess](https://github.com/devkcud/mess)                       | Go                                | CLI for lazy file org. It’s just `mkdir` with ambition.                       |
+| [mess](https://github.com/devkcud/mess)                       | Go                                | CLI for lazy file org. It's just `mkdir` with ambition.                       |
 | [Skill Icons Web](https://github.com/devkcud/skill-icons-web) | SvelteKit · TypeScript · Tailwind | Drag-n-drop UI for skill icons. Built because no one else had the decency to. |
-| [duckOS](https://github.com/devkcud/duckos)                   | React · SASS                      | Browser-based fake OS. Fun, useless, therapeutic.                             |
+| [duckOS](https://github.com/devkcud/duckos)                   | React · SASS                      | Browser-based fake OS (and old portfolio too). Fun, useless, therapeutic.     |
 
 > 🧪 More projects on [my portfolio](https://www.devkcud.com). Some are offline. Blame capitalism.
 
