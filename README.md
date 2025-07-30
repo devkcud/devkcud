@@ -8,9 +8,9 @@ Check out my [Portfolio](https://www.devkcud.com) and [LinkedIn](https://www.lin
 - Designed CLIs, dashboards, and internal utilities just to avoid clicking things manually
 - Published things I'd actually use. Archived the rest. No regrets.
 
-![](https://komarev.com/ghpvc/?username=devkcud&style=pixel)
-
 My work overlaps code, infra, UX, security, and chaos. My favorite language is "it depends" (against my will).
+
+<br>
 
 ## 🧪 What I Build
 
@@ -19,6 +19,8 @@ I build things to do my job for me, document themselves (sometimes), and mostly 
 - 🖥️ **Infra & Backend Systems**: Python, C#, cloud orchestration, and anti-suffering scripts
 - 🎮 **Godot Engine Tools**: Custom shaders, particle FX, scripting modules
 - 📊 **Dashboards & UI Stuff**: Built to survive stakeholders and product meetings
+
+<br>
 
 ## 🗃️ Notable Projects
 
@@ -31,6 +33,8 @@ I build things to do my job for me, document themselves (sometimes), and mostly 
 | [duckOS](https://github.com/devkcud/duckos)                   | React · SASS                      | Browser-based fake OS. Fun, useless, therapeutic.                             |
 
 > 🧪 More projects on [my portfolio](https://www.devkcud.com). Some are offline. Blame capitalism.
+
+<br>
 
 ## 🧰 Tech-Stack & Friends
 
@@ -46,6 +50,8 @@ Docker • AWS • Firebase • Linux (of course)
 **Databases**  
 PostgreSQL • MongoDB
 
+<br>
+
 ## 🤝 Let's Talk
 
 Want to collaborate? Need tooling for your project? Hiring someone to document the good the bad and the ugly?
@@ -53,6 +59,8 @@ Want to collaborate? Need tooling for your project? Hiring someone to document t
 - 📧 Proton: `patommmmm@proton.me` (preferred)
 - 📨 Gmail: `andrescalisejr@gmail.com`
 - 💬 Discord: `patomcio`
+
+<br>
 
 ## 🗣️ Spoken Languages
 
