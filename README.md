@@ -1,6 +1,6 @@
 ## 🦆 Who I Am (and why you should care)
 
-![](https://komarev.com/ghpvc/?username=devkcud&style=pixel)
+Check out my [Portfolio](https://www.devkcud.com) and [LinkedIn](https://www.linkedin.com/in/andre-albanese-junior)!
 
 - Promoted to lead dev at 18, working on a B2B analytics platform used by 10,000+ enterprise users
 - Architected backend systems, automation pipelines, onboarding flows, and actual legal policy docs
@@ -8,11 +8,9 @@
 - Designed CLIs, dashboards, and internal utilities just to avoid clicking things manually
 - Published things I'd actually use. Archived the rest. No regrets.
 
+![](https://komarev.com/ghpvc/?username=devkcud&style=pixel)
+
 My work overlaps code, infra, UX, security, and chaos. My favorite language is "it depends" (against my will).
-
-[Portfolio](https://www.devkcud.com) • [LinkedIn](https://www.linkedin.com/in/andre-albanese-junior)
-
-<br>
 
 ## 🧪 What I Build
 
@@ -21,8 +19,6 @@ I build things to do my job for me, document themselves (sometimes), and mostly 
 - 🖥️ **Infra & Backend Systems**: Python, C#, cloud orchestration, and anti-suffering scripts
 - 🎮 **Godot Engine Tools**: Custom shaders, particle FX, scripting modules
 - 📊 **Dashboards & UI Stuff**: Built to survive stakeholders and product meetings
-
-<br>
 
 ## 🗃️ Notable Projects
 
@@ -34,11 +30,7 @@ I build things to do my job for me, document themselves (sometimes), and mostly 
 | [Skill Icons Web](https://github.com/devkcud/skill-icons-web) | SvelteKit · TypeScript · Tailwind | Drag-n-drop UI for skill icons. Built because no one else had the decency to. |
 | [duckOS](https://github.com/devkcud/duckos)                   | React · SASS                      | Browser-based fake OS. Fun, useless, therapeutic.                             |
 
-<br>
-
 > 🧪 More projects on [my portfolio](https://www.devkcud.com). Some are offline. Blame capitalism.
-
-<br>
 
 ## 🧰 Tech-Stack & Friends
 
@@ -54,8 +46,6 @@ Docker • AWS • Firebase • Linux (of course)
 **Databases**  
 PostgreSQL • MongoDB
 
-<br>
-
 ## 🤝 Let's Talk
 
 Want to collaborate? Need tooling for your project? Hiring someone to document the good the bad and the ugly?
@@ -63,8 +53,6 @@ Want to collaborate? Need tooling for your project? Hiring someone to document t
 - 📧 Proton: `patommmmm@proton.me` (preferred)
 - 📨 Gmail: `andrescalisejr@gmail.com`
 - 💬 Discord: `patomcio`
-
-<br>
 
 ## 🗣️ Spoken Languages
 
