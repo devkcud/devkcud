@@ -19,6 +19,7 @@ I build things to do my job for me, document themselves (sometimes), and mostly 
 - 🖥️ **Infra & Backend Systems**: Python, C#, cloud orchestration, and anti-suffering scripts
 - 🎮 **Godot Engine Tools**: Custom shaders, particle FX, scripting modules
 - 📊 **Dashboards & UI Stuff**: Built to survive stakeholders and product meetings
+- 📋 **Legal & Docs**: Not cool. Not fun. But someone has to answer the 122-question security questionnaires at 2 AM
 
 <br>
 
