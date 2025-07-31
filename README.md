@@ -1,14 +1,14 @@
 ## 🦆 Who I Am (and why you should care)
 
-Check out my [Portfolio](https://www.devkcud.com) and [LinkedIn](https://www.linkedin.com/in/andre-albanese-junior)!
+**TL;DR**: My work overlaps code, infra, UX, security, legal, docs, and whatever else has an open Jira card (I write them too).
 
-- Promoted to lead dev at 18, working on a B2B analytics platform used by 10,000+ enterprise users
-- Architected backend systems, automation pipelines, onboarding flows, and actual legal policy docs
+> Check out my [Portfolio](https://www.devkcud.com) and [LinkedIn](https://www.linkedin.com/in/andre-albanese-junior)!
+
+- Promoted to lead dev at 18, building a B2B analytics platform used by 10,000+ enterprise users from Seara, Danone, Panco, Coty, Ruby Rose, and many more (yes, I'm name-dropping)
+- Architected backend systems, automation pipelines, onboarding flows, and authored public-facing legal policy docs (I also handle the 100+ question security audits and client validation calls)
 - Built solo Godot tools and FX systems used by indie devs
 - Designed CLIs, dashboards, and internal utilities just to avoid clicking things manually
 - Published things I'd actually use. Archived the rest. No regrets.
-
-My work overlaps code, infra, UX, security, and chaos. My favorite language is "it depends" (against my will).
 
 <br>
 
@@ -55,7 +55,7 @@ PostgreSQL • MongoDB
 
 ## 🤝 Let's Talk
 
-Want to collaborate? Need tooling for your project? Hiring someone to document the good the bad and the ugly?
+Want to collaborate? Need tooling for your project? Hiring someone to document the good, the bad, and the ugly?
 
 - 📧 Proton: `patommmmm@proton.me` (preferred)
 - 📨 Gmail: `andrescalisejr@gmail.com`
