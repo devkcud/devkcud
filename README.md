@@ -59,7 +59,8 @@ PostgreSQL • MongoDB
 
 Want to collaborate? Need tooling for your project? Hiring someone to document the good, the bad, and the ugly?
 
-- 📧 Proton: `patommmmm@proton.me` (preferred)
+- 😎 Own Email: `andre.albanese@devkcud.com` (preferred)
+- 📧 Proton: `patommmmm@proton.me`
 - 📨 Gmail: `andrescalisejr@gmail.com`
 - 💬 Discord: `patomcio`
 
