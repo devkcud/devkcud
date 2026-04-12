@@ -2,7 +2,7 @@
 
 **TL;DR**: My work overlaps code, infra, UX, security, legal, docs, and whatever else has an open Jira card (I write them too).
 
-> Check out my [Portfolio](https://www.devkcud.com) and [LinkedIn](https://www.linkedin.com/in/andre-albanese-junior)!
+> Check out my [Portfolio](https://devkcud.com) and [LinkedIn](https://www.linkedin.com/in/andre-albanese-junior)!
 
 - Promoted to lead dev at 18, building a B2B analytics platform used by 13,000+ enterprise users from Coca-Cola, Seara, Danone, Panco, Coty, Ruby Rose, and many more (yes, I'm name-dropping)
 - Architected backend systems, automation pipelines, onboarding flows, and authored public-facing legal policy docs (I also handle the 100+ question security audits and client validation calls)
