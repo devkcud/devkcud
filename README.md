@@ -1,4 +1,4 @@
-## 🦆 Who I Am (and why you should care)
+## 🦆 Who I Am
 
 **TL;DR**: My work overlaps code, infra, UX, security, legal, docs, and whatever else has an open Jira card (I write them too).
 
